@@ -1,0 +1,1 @@
+<p>Teste INCLUDE_ONCE</p>
